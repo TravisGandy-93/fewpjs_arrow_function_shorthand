@@ -1,4 +1,4 @@
-let divide = () => 2000/10;
+let divide = () => 2000/100;
 
 let square = (parameter1) => Math.pow(parameter1, 2);
 
